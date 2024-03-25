@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23238" started-at="2022-12-01T10:27:06Z" finished-at="2022-12-01T10:27:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23238" started-at="2022-12-01T10:27:06Z" finished-at="2022-12-01T10:27:29Z">
+      <class name="org.insta.Instragram">
+        <test-method status="PASS" signature="brforeclass()[pri:0, instance:org.insta.Instragram@1a968a59]" name="brforeclass" is-config="true" duration-ms="11679" started-at="2022-12-01T10:27:06Z" finished-at="2022-12-01T10:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.insta.Instragram@1a968a59]" name="beforemethod" is-config="true" duration-ms="282" started-at="2022-12-01T10:27:18Z" finished-at="2022-12-01T10:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.insta.Instragram@1a968a59]" name="test" duration-ms="11176" started-at="2022-12-01T10:27:18Z" finished-at="2022-12-01T10:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- org.insta.Instragram -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
